@@ -78,3 +78,37 @@ This is ~~another way~~:
 ```md
 This is ~~another way~~:
 ```
+
+# Newline
+
+## Using spaces
+
+(Add spaces after the first line)
+
+This sentence spans 
+multiple lines
+
+```md
+This sentence spans 
+multiple lines
+```
+
+## Using backslash
+
+This sentence spans\
+multiple lines
+
+```md
+This sentence spans\
+multiple lines
+```
+
+## Using <br/>
+
+This sentence spans<br/>
+multiple lines
+
+```md
+This sentence spans<br/>
+multiple lines
+```
