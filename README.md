@@ -79,17 +79,17 @@ This is ~~another way~~:
 This is ~~another way~~:
 ```
 
-# Newline
+# Line breaks
 
 ## Using spaces
 
 (Add spaces after the first line)
 
-This sentence spans 
+This sentence spans  
 multiple lines
 
 ```md
-This sentence spans 
+This sentence spans  
 multiple lines
 ```
 
