@@ -50,3 +50,17 @@ This is _another way_:
 This is _another way_:
 ```
 
+## Bold and Italic
+
+This is how to write ***bold and italic*** text:
+
+```md
+This is how to write ***bold and italic*** text:
+```
+
+This ___another way___:
+
+
+```md
+This ___another way___:
+```
