@@ -79,6 +79,22 @@ This is ~~another way~~:
 This is ~~another way~~:
 ```
 
+## Subscript
+
+This is how to write <sub>subscript</sub> text:
+
+```md
+This is how to write <sub>subscript</sub> text:
+```
+
+## Superscript
+
+This is how to write <sup>superscript</sup> text:
+
+```md
+This is how to write <sup>superscript</sup> text:
+```
+
 # Line breaks
 
 ## Using spaces
