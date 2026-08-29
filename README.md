@@ -103,7 +103,7 @@ This sentence spans\
 multiple lines
 ```
 
-## Using <br/>
+## Using \<br/>
 
 This sentence spans<br/>
 multiple lines
