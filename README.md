@@ -128,3 +128,43 @@ multiple lines
 This sentence spans<br/>
 multiple lines
 ```
+
+# Lists
+
+## Unordered lists
+
+Unordered list can be created using `-`, `*` and `+`
+
+ - this
+ - is
+ - an
+ - unordered list
+
+ * this
+ * as
+ * well
+
+ + and
+ + surprisingly
+ + this
+ + is
+ + as
+ + well
+
+```md
+ - this
+ - is
+ - an
+ - unordered list
+
+ * this
+ * as
+ * well
+
+ + and
+ + surprisingly
+ + this
+ + is
+ + as
+ + well
+```
