@@ -67,10 +67,10 @@ This ___another way___:
 
 ## Strikethrough
 
-This is how to write ~Strikethrough~ text:
+This is how to write ~strikethrough~ text:
 
 ```md
-This is how to write ~Strikethrough~ text:
+This is how to write ~strikethrough~ text:
 ```
 
 This is ~~another way~~:
