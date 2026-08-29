@@ -33,5 +33,20 @@ This is __another way__:
 
 ```md
 This is __another way__:
-
 ```
+
+
+## Italic
+
+This is how to write *italic* text:
+
+```md
+This is how to write *italic* text:
+```
+
+This is _another way_:
+
+```md
+This is _another way_:
+```
+
