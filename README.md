@@ -64,3 +64,17 @@ This ___another way___:
 ```md
 This ___another way___:
 ```
+
+## Strikethrough
+
+This is how to write ~Strikethrough~ text:
+
+```md
+This is how to write ~Strikethrough~ text:
+```
+
+This is ~~another way~~:
+
+```md
+This is ~~another way~~:
+```
