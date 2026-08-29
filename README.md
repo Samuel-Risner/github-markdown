@@ -83,7 +83,7 @@ This is ~~another way~~:
 
 ## Using spaces
 
-(Add spaces after the first line)
+(Add spaces after the first line, at least 2)
 
 This sentence spans  
 multiple lines
