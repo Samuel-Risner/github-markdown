@@ -19,3 +19,19 @@ This is not how to <ins> underline </ins> something:
 ```md
 This is not how to <ins> underline </ins> something:
 ```
+
+## Bold
+
+This is how to write **bold** text:
+
+```md
+This is how to write **bold** text:
+
+```
+
+This is __another way__:
+
+```md
+This is __another way__:
+
+```
