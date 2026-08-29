@@ -6,8 +6,8 @@ Sum up of GitHub's markdown syntax
 
 ## Underline
 
-This is how to <ins> underline </ins> something
+This is how to <ins>underline</ins> something
 
 ```md
-This is how to <ins> underline </ins> something
+This is how to <ins>underline</ins> something
 ```
